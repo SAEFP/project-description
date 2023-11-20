@@ -14,10 +14,11 @@ The Unreal game engine will be used to create a VR scenario for social interacti
 
 The HTC Vive VR headset and the etee VR handsets, which designed for enhance finger, gesture tracking, and pressure sensing capabilities for a more immersive VR environment, will be used during the experiment.  
 
-<img src="./images/eteeControllers.png" alt="eteeControllers" width="200"/>
+<img src="./images/htc-vive-headset.jpeg" alt="htc-vive-headset.jpeg" width="200"/> <img src="./images/eteeControllers.png" alt="eteeControllers" width="200"/>
 
 In the current research, the aim is to use the etee handsets to provide tactile feedback and sensing. Additionally, people use their hands to gesture, feel and interact and since the sensation of touch, such as a handshake, is an integral part of human interaction (Buckingham, 2021), replicating handshake in a VR setting can positively influence the immersion of the experiment for participants. Most of the previous tactile research involves the emotional response of the participants to the tactile feedback. Current research will use tactile feedback to increase the immersion in VR setting. Furthermore, tactile-sensing yoga mattress will be used to track participants foot pressure to examine their approach or withdraw attitudes during the social interaction.
 
+<img src="./images/finger-tracking.gif" alt="finger-tracking.gif" width="400"/>
 
 
  ----
