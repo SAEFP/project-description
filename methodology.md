@@ -2,7 +2,8 @@
 
 The current project will employ quantitative approach to investigate face and body perception during social interactions to assess socially anxious people. The research will analyse the neural and behavioural activities of non-clinical participants who have high levels of social anxiety to a variety of social interactions through EEG measurements and participants’ behavioural responses. Participants will engage in social interactions in a controlled VR setting. The VR setting will be developed to create realistic social interactions. There will be 24 young to middle-aged avatars. Gender of the avatars will be male. Metahumans will be used to create realistic avatars. Each experimental trial will randomly show one avatar. VR setting will be designed to resemble a typical office environment that may evoke anxiety among participants. Participants will be in an office space including some furniture and space for movement.
 
-![describing text](image-url)
+<img src="./images/metahuman_1_head.png" alt="metahuman" width="200"/> <img src="./images/metahuman_2_head.png" alt="metahuman" width="200"/>
+<img src="./images/metahuman_1_head.png" alt="metahuman" width="200"/>
 
 There will be a total of 240 trials in this experiment. There are three emotional valence conditions in the experiment, and each condition will have 80 trials.For each emotional valence condition, 8 virtual characters will be randomly selected, and each of them will be shown 10 times.Three different emotional valence conditions will be created for each of the 24 virtual characters, and no participant will see the same virtual character with different emotional valence. Each virtual character will have consistent emotional valence throughout the experiment for each participant.
 
